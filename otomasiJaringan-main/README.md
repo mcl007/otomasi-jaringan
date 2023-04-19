@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Unib.png/472px-Logo_Unib.png">
+    <img width="100" height="100" src="https://id.wikipedia.org/wiki/Eni#/media/Berkas:Logo_ENI.svg">
 </p>
 <h1 align="center">NACM</h1>
 <h2 align="center">Network Automation Configuration Management</h2>
@@ -29,7 +29,7 @@ ___
     
 ## Quick start
     sudo su
-    git clone https://github.com/AzhariRamadhan/otomasiJaringan.git
+    git clone https://github.com/mcl007/otomasi-jaringan.git
     cd otomasiJaringan
     python3 -m venv env
     source env/bin/activate
@@ -60,4 +60,4 @@ ___
 ___
 
 ** Keperluan tugas akhir
-azhari.ramadhan0902@gmail.com
+michael.hendry@windowslive.com
