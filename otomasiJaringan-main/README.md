@@ -59,5 +59,4 @@ ___
 
 ___
 
-** Keperluan tugas akhir
 michael.hendry@windowslive.com
